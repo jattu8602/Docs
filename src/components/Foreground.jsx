@@ -16,7 +16,7 @@ const ref  = useRef(null);
       description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       filesize:".1mb",
       close: true,
-      tag:{isOpen:false,
+      tag:{isOpen:true,
         tagTitle:"Download Now...",
         tagColor:"green",
 
@@ -30,7 +30,7 @@ const ref  = useRef(null);
       close: true,
       tag:{isOpen:true,
         tagTitle:"upload",
-        tagColor:"green",
+        tagColor:"blue",
 
 
       },
@@ -52,7 +52,7 @@ const ref  = useRef(null);
       description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       filesize:".5mb",
       close: true,
-      tag:{isOpen:false,
+      tag:{isOpen:true,
         tagTitle:"Download Now...",
         tagColor:"blue",
 
@@ -64,7 +64,65 @@ const ref  = useRef(null);
       description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
       filesize:".9mb",
       close: true,
+      tag:{isOpen:true,
+        tagTitle:"Download Now...",
+        tagColor:"green",
+
+      }
+      },
+    {
+      description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      filesize:".1mb",
+      close: true,
+      tag:{isOpen:true,
+        tagTitle:"Download Now...",
+        tagColor:"green",
+
+
+      },
+
+    },
+    {
+      description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      filesize:"5mb",
+      close: true,
+      tag:{isOpen:true,
+        tagTitle:"upload",
+        tagColor:"blue",
+
+
+      },
+
+    },
+    {
+      description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      filesize:".6mb",
+      close: true,
       tag:{isOpen:false,
+        tagTitle:"Download Now...",
+        tagColor:"green",
+
+
+      },
+
+    },
+    {
+      description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      filesize:".5mb",
+      close: true,
+      tag:{isOpen:true,
+        tagTitle:"Download Now...",
+        tagColor:"blue",
+
+
+      },
+
+    },
+    {
+      description:"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+      filesize:".9mb",
+      close: true,
+      tag:{isOpen:true,
         tagTitle:"Download Now...",
         tagColor:"green",
 
